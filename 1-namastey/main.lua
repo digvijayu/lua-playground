@@ -1,0 +1,1 @@
+io.write("Namastey from lua");
